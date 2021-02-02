@@ -84,7 +84,10 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-    font-size: 36px;
+    }
+
+.benefits h2 {
+    font-size: medium;
 }
 
 .benefit-lead {
@@ -200,11 +203,4 @@ p {
     font-size: 20px;
 }
 
-.hidden {
-    display: none;
-}
 
-.contentheader {
-    font-size: 36px;
-    margin-bottom: 1em;
-}
